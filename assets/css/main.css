@@ -793,6 +793,15 @@ input[type="radio"]+label:before {
      display: block;
      margin: 2.5rem 0;
      width: 100%;
+
+}
+
+.image.main .image-1 {
+     background-image: url(/images/img1.png);
+     height: 187px;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: 0;
 }
 
 .image.main img {
@@ -1392,7 +1401,7 @@ body.is-preload #bg:before {
      border-radius: 100%;
 }
 
-#header .logo img{
+#header .logo img {
      width: 100%;
      border-radius: 50%;
 }

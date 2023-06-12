@@ -797,7 +797,6 @@ input[type="radio"]+label:before {
 }
 
 .image.main .image-1 {
-     background-image: url(/images/img1.png);
      height: 187px;
      background-size: cover;
      background-repeat: no-repeat;
